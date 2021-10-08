@@ -1,0 +1,10 @@
+insert into authority (id, name) values (1, 'Cat, miner''s');
+insert into authority (id, name) values (2, 'Black-eyed bulbul');
+insert into authority (id, name) values (3, 'Brown and yellow marshbird');
+insert into authority (id, name) values (4, 'Little grebe');
+insert into authority (id, name) values (5, 'Sarus crane');
+insert into authority (id, name) values (6, 'Hawk, galapagos');
+insert into authority (id, name) values (7, 'Steller''s sea lion');
+insert into authority (id, name) values (8, 'Flamingo, roseat');
+insert into authority (id, name) values (9, 'African snake (unidentified)');
+insert into authority (id, name) values (10, 'Bushpig');

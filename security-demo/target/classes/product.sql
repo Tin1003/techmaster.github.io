@@ -1,0 +1,10 @@
+insert into product (id, name, price) values (1, 'Mallard', 22335234);
+insert into product (id, name, price) values (2, 'Pine snake ', 201402594);
+insert into product (id, name, price) values (3, 'Komodo dragon', 120356297);
+insert into product (id, name, price) values (4, 'Palm squirrel', 9312494);
+insert into product (id, name, price) values (5, 'Robin, white-throated', 709273937);
+insert into product (id, name, price) values (6, 'Mongoose, javan gold-spotted', 146265298);
+insert into product (id, name, price) values (7, 'Great cormorant', 113449709);
+insert into product (id, name, price) values (8, 'Hanuman langur', 8700485);
+insert into product (id, name, price) values (9, 'Gull, lava', 89217002);
+insert into product (id, name, price) values (10, 'Woodpecker, downy', 98611191);
